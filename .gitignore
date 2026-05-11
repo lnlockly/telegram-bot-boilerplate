@@ -24,9 +24,14 @@
 !LICENSE
 !CONTRIBUTING.md
 !SECURITY.md
+!AGENTS.md
+!SECURITY_AUDIT.md
+!CHANGELOG.md
 
 # Скрипты
 !install_bot.sh
+!scripts/
+!scripts/**
 !main.py
 
 # Статические файлы
